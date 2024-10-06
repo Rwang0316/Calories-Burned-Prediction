@@ -1,4 +1,3 @@
-# Calories Burned Prediction
 
 # Calories Burned Prediction
 
