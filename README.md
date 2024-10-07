@@ -9,6 +9,18 @@ This project aims to predict the number of calories burned during a workout usin
 As a pretty big gym enjoyer, accurately predicting calories burned during a workout is important for me to manage my weight, fitness levels, and overall health. This project aims to provide a machine learning-based approach to estimate calories burned based on common workout and biological data. The insights from this project can be used in personal fitness tracking applications or integrated with wearable fitness devices.
 ## Data
 
+## SKills
+
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Linear Regression
+- Random Forest
+- XGBoost
+- Ridge Regression
+- Lasso Regression
+- Model Evaluation
+
 The project uses two CSV files:
 
 **exercise.csv:** Contains user data on biological measures and exercise metrics (age, gender, height, weight, heart rate, duration, etc.). 
