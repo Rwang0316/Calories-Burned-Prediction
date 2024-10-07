@@ -53,11 +53,13 @@ from sklearn.metrics import mean_squared_error, r2_score
 
 ## Exploratory Data Analysis
 
-
+![image alt](https://github.com/Rwang0316/Calories-Burned-Prediction/blob/main/Media/Distribution.png?raw=true)
 **Distributions by Gender:** Males generally burn more calories, have higher heart rates, and weigh more than females. This difference is visualized in the distribution plots.
 
+![image alt](https://github.com/Rwang0316/Calories-Burned-Prediction/blob/main/Media/Scatterplots.png?raw=true)
 **Scatterplots:** Relationships between key features (e.g., duration, heart rate, and calories) were visualized, color-coded by gender.
 
+![image alt](https://github.com/Rwang0316/Calories-Burned-Prediction/blob/main/Media/Heatmap.png?raw=true)
 **Correlation Heatmap:** Showed strong positive correlations between calories burned, duration, and heart rate.
 ## Model Evaluation
 
